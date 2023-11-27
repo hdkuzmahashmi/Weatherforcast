@@ -1,4 +1,4 @@
-# appsfactory.weatherforecast.frontend
+# Weather Forecast Project
 
 ## Project setup
 ```
